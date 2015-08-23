@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 public class ArraySamples {
-	//updated at 10:18pm
+	//updated at 10:28pm
 	public static void main(String[] args)
 	{
 		int[] randomArray;
