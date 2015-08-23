@@ -1,1 +1,13 @@
-bin/ 
+*.class
+
+/bin
+
+# Mobile Tools for Java
+.mtj.tmp/
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+
